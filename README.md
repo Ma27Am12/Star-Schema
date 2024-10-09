@@ -6,3 +6,4 @@ Criado o banco de dados contendo as tabelas
 Criado o arquivo de modelo EER
 ### passo 3
 Criado o Star Schema
+
